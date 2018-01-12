@@ -1,0 +1,6 @@
+framework module Pods_MUKitS_Tests {
+  umbrella header "Pods-MUKitS_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

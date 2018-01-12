@@ -1,0 +1,16 @@
+PODS:
+  - MUKitS (0.1.0)
+
+DEPENDENCIES:
+  - MUKitS (from `../`)
+
+EXTERNAL SOURCES:
+  MUKitS:
+    :path: ../
+
+SPEC CHECKSUMS:
+  MUKitS: 2e3904c7f3f3eef4c3340e4bd3eead9fe848627b
+
+PODFILE CHECKSUM: 9da14d1afb0b8d638a82d79b82829d8ae67dff16
+
+COCOAPODS: 1.4.0.rc.1

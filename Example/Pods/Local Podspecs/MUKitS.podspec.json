@@ -1,0 +1,42 @@
+{
+  "name": "MUKitS",
+  "version": "0.1.0",
+  "summary": "easy to use for you",
+  "description": "fix signal ,MVVMTableView,Waterfall,Shared,Carousel,MUPayment,QRCodeScan,MUPaperView,MUNavigation",
+  "homepage": "https://github.com/392071745@qq.com/MUKitS",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Jeykit": "392071745@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/392071745@qq.com/MUKitS.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MUKitS/Classes/**/*",
+  "dependencies": {
+    "AliPay": [
+
+    ],
+    "WeChat_SDK": [
+
+    ],
+    "YYModel": [
+
+    ],
+    "SDWebImage": [
+
+    ],
+    "WeiboSDK": [
+
+    ],
+    "TencentOpenApiSDK": [
+
+    ]
+  }
+}

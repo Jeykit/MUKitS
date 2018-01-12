@@ -29,7 +29,7 @@
 
 /* Begin PBXFileReference section */
 		1AB1E7F7E2D28392294EE3CB /* Pods-MUKitS_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MUKitS_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-MUKitS_Tests/Pods-MUKitS_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		3E2ABDDF827C9F48DD12B1B4 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		3E2ABDDF827C9F48DD12B1B4 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		502F3C39E9E4C1722AB55AC4 /* Pods_MUKitS_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MUKitS_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		5BB16941E0743CC92161C3EB /* Pods-MUKitS_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MUKitS_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-MUKitS_Tests/Pods-MUKitS_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		607FACD01AFB9204008FA782 /* MUKitS_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MUKitS_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -43,10 +43,10 @@
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
 		762B197E16AC74F93192A09E /* Pods-MUKitS_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MUKitS_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-MUKitS_Example/Pods-MUKitS_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		C12514462D53FC42769EF804 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		C12514462D53FC42769EF804 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		D466A4D745A9673B1AC547AB /* Pods-MUKitS_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MUKitS_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-MUKitS_Example/Pods-MUKitS_Example.release.xcconfig"; sourceTree = "<group>"; };
 		DA8C262A9A490BFB3012288A /* Pods_MUKitS_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MUKitS_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		FC07FCC7EDD3D2067420716C /* MUKitS.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = MUKitS.podspec; path = ../MUKitS.podspec; sourceTree = "<group>"; };
+		FC07FCC7EDD3D2067420716C /* MUKitS.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = MUKitS.podspec; path = ../MUKitS.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
